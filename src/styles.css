@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    padding-bottom: 50px;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.mTop-20 {
+    margin-top: 20px;
+}
+
+.imgLogo {
+    width: 120px;
+}
